@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title">Judul</string>
+    <string name="spoiler">Description Movie</string>
+    <string name="genre">Genre</string>
+    <string name="released">Liris</string>
+
+    <array name="data_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_preman</item>
+    </array>
+
+    <string-array name="data_title">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Bird Box</item>
+        <item>Spiderman : Into the Spider-Verse</item>
+        <item>Bumblebee</item>
+        <item>Creed</item>
+        <item>Once Upon a Deadpool</item>
+        <item>Dragon Ball Super: Broly</item>
+        <item>Glass</item>
+        <item>Preman Pensiun</item>
+    </string-array>
+
+    <string-array name="data_spoiler">
+        <item>
+            Seorang bintang musik country yang karirnya mulai memudar, Jackson Maine (Bradley Cooper)
+            menemukan sebuah talenta yang sangat berbakat di dalam diri dari seorang musisi muda bernama
+            Ally (Lady Gaga). Maine berhasil mengorbitkan Ally menjadi seorang bintang muda yang menjanjikan.
+            Namun keduanya terlibat hubungan yang lebih jauh dari sekedar mentor dan anak didik. Seiring dengan
+            meroketnya karir dari Ally dan dirinya, Maine mengalami dilema mengenai masalah ini.
+        </item>
+        <item>
+            Film ini mengungkap asal-usul Arthur Curry, manusia perkasa yang bisa mengendalikan air dan hewan laut.
+            Dari mana ia mendapatkan kekuatannya? Siapa orang tuanya, dan pantaskah dia menjadi seorang raja di7samudera?
+        </item>
+        <item>
+            Bird Box adalah sebuah film produksi tahun 2018 yang berasal dari Amerika Serikat bergenre post-apocalyptic.
+            Film ini disutradarai oleh Susanne Bier, naskah ditulis oleh Eric Heisserer, berdasarkan novel berjudul sama,
+            karya novelis Josh Malerman yang terbit pada tahun 2014.
+        </item>
+        <item>
+            Spider-Man melintasi dimensi paralel dan bekerja sama dengan Spider-Men dari dimensi-dimensi tersebut untuk
+            menghentikan ancaman terhadap semua realitas.
+        </item>
+        <item>
+            Dalam pelarian di tahun 1987, Bumblebee menemukan perlindungan di tempat rongsokan di sebuah kota kecil
+            pinggir pantai California. Charlie, gadis yang tengah menyentuh usia 18 tahun dan sedang mencari jati diri,
+            menemukan Bumblebee, yang banyak tergores dan rusak. Ketika berusaha memfungsikannya lagi, Charlie menyaksikan
+            sendiri bahwa ini bukanlah mobil VW kodok berwarna kuning yang biasa.
+        </item>
+        <item>
+            Creed adalah sebuah film drama olahraga Amerika tahun 2015 yang disutradarai oleh Ryan Coogler dan
+            ditulis oleh Coogler dan Aaron Covington. Sebagai sebuah spin-off dan sekuel dari serial film Rocky,
+            film tersebut dibintangi oleh Michael B
+        </item>
+        <item>
+            Wade Wilson (Ryan Reynolds) berusaha melindungi seorang mutan misterius yang diincar Cable (Josh Brolin).
+            Untuk melindunginya, Wade lalu membentuk sebuah tim bernama X-Force yang beranggotakan Deadpool sendiri,
+            Domino, Negasonic Teenage Warhead, Colossus, dan Bedlam.
+        </item>
+        <item>
+            Ini adalah kisah baru dari Bangsa Saiyan. Bumi damai setelah Turnamen Kekuasaan. Menyadari bahwa alam
+            semesta masih memiliki banyak orang yang lebih kuat untuk ditemukan, Goku menghabiskan seluruh harinya
+            berlatih untuk mencapai kemampuan bertarungnya yang lebih baik lagi. Lalu suatu hari, Goku dan Vegeta
+            dihadapkan oleh seorang Saiyan lainnya bernama Broly yang belum pernah mereka lihat sebelumnya.
+        </item>
+        <item>
+            Film Glass akan melanjutkan kisah pencarian Kevin Wendell Crumb yang hmelarikan diri setelah menculik para gadis.
+            Kevin Wendel Crumbang memiliki 20 kepribadian dalam satu jiwa ini bisa berubah menjadi seorang monster saat pribadinya
+            yang bernama The Beast muncul.
+        </item>
+        <item>
+            Setelah tiga tahun, bisnis kecimpring Muslihat yang sudah pensiun sebagai preman, mengalami masalah. Penjualannya mulai menurun.
+            Muslihat juga menghadapi masalah baru saat Safira, anak perempuan satu-satunya, sudah tumbuh remaja dan mulai didatangi lelaki.
+            Masalah lebih besar kemudian muncul, ketika ada masalah di antara mantan anak buahnya.
+        </item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Romance</item>
+        <item>Fantasi, Fiksi</item>
+        <item>Drama, Cerita seru</item>
+        <item>Fantasi, Fiksi</item>
+        <item>Fiksi Ilmiah, Laga</item>
+        <item>Drama, Olahraga</item>
+        <item>Fiksi Ilmiah, Laga</item>
+        <item>Fantasi Ilmiah, Laga</item>
+        <item>Drama, Misteri</item>
+        <item>Drama, Komedi</item>
+    </string-array>
+
+    <string-array name="data_released">
+        <item>5 Oktober 2018</item>
+        <item>21 Desember 2018</item>
+        <item>14 Desember 2018</item>
+        <item>5 Juli 2019</item>
+        <item>19 Desember 2018</item>
+        <item>19 November 2015</item>
+        <item>10 Februari 2016</item>
+        <item>16 Februari 2019</item>
+        <item>16 Januari 2019</item>
+        <item>17 Januari 2019</item>
+    </string-array>
+</resources>
