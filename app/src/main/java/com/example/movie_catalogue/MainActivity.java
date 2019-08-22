@@ -1,8 +1,17 @@
 package com.example.movie_catalogue;
 
+
+import android.content.Intent;
+import android.content.res.TypedArray;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.AdapterView;
+import android.widget.ListView;
+import android.widget.Toast;
+
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
+import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
     private TypedArray dataPhoto;

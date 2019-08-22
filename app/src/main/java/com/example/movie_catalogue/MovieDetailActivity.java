@@ -8,7 +8,7 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MovieDetailActivity extends AppCompatActivity {
-    public static final String KEY_EXTRA = "KEY_EXTRA";
+    private static final String KEY_EXTRA = "KEY_EXTRA";
     ImageView imgPhoto;
     TextView txtTitle, txtSpoiler, txtGenre, txtReleased;
     int photo;

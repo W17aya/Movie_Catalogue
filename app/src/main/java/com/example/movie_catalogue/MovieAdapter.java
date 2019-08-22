@@ -1,6 +1,5 @@
 package com.example.movie_catalogue;
 
-
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -56,9 +55,9 @@ public class MovieAdapter extends BaseAdapter {
         private TextView txtSpoiler;
 
         ViewHolder(View convertView){
-            imgPhoto = convertView.findViewById(R.id.img_photo);
-            txtTitle = convertView.findViewById(R.id.txt_title);
-            txtSpoiler = convertView.findViewById(R.id.txt_spoiler);
+            imgPhoto = (ImageView) convertView.findViewById(R.id.img_photo);
+            txtTitle = (TextView) convertView.findViewById(R.id.txt_title);
+            txtSpoiler = (TextView) convertView.findViewById(R.id.txt_spoiler);
         }
 
         void bind(Movie movie) {

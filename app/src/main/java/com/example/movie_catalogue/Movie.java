@@ -1,6 +1,5 @@
 package com.example.movie_catalogue;
 
-
 import android.os.Parcel;
 import android.os.Parcelable;
 
